@@ -24,7 +24,7 @@ text about me
 
 ### Expample of code
 Python:
-'''
+```
 def solution(number):
     return sum(x for x in range(number) if x>0 and (x%3 == 0 or x%5 == 0))
-'''
+```
