@@ -1,8 +1,6 @@
 # Kirill Basarab
 ## Front-end developer
 
-![img](path to image)
-
 ### Contact
 * __email: basarabkirill00@gmail.com__
 * __discord: sollidol1 (@sollidol1)__
