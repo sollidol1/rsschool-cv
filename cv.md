@@ -7,11 +7,13 @@
 * __email: basarabkirill00@gmail.com__
 * __discord: sollidol1 (@sollidol1)__
 
-text about me
+### About myself
+
+I'm the 25'th old person. I have some expirience as manual QA engineer, I worked in this position for one year. Now I'm working as techical support specialist in fin tech company, but I want to change my speciality and became a front-ent developer, so I start learning at RS school.
 
 ### Work and study road
-1. BSU 2017-2023 years
-2. QA engineer 2023-2024 years
+1. BSU 2017-2022 years
+2. QA engineer 2022-2023 years
 3. Tech support L2 2024-now
 
 ### Skills
