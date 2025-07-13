@@ -133,3 +133,11 @@ html {
 .footer {
     background-color: #6a7a5f;
 }
+
+.profile-border {
+    border-bottom: 5px solid #3d4647
+}
+
+.section-border {
+    border-bottom: 1px solid #3d4647
+}
