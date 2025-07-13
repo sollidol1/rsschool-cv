@@ -52,13 +52,34 @@ body {
     transition: 0.3s;
 }
 
-a {
-  color: #4a5358;
+.nav-item a {
+  color: #ffffff;
   text-decoration: none;
   transition: color 0.5s;
 }
-a:hover {
-  color: #549647;
+.nav-item a:hover {
+  color: #3d4647;
+}
+
+.footer-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.footer-item {
+    color: #ffffff;
+}
+
+.footer-item a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.footer-item a:hover {
+  color: #3d4647;
 }
 
 html {
@@ -78,4 +99,16 @@ html {
   border-radius: 50%;
   width: 20%;
   height: 20%;
+}
+
+.header {
+    background-color:  #6a7a5f;
+}
+
+.main {
+    background-color:#faf3e9
+}
+
+.footer {
+    background-color: #6a7a5f;
 }
