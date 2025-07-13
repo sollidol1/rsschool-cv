@@ -24,6 +24,7 @@ body {
     font-size: 18px;
     line-height: 1.5;
     color: #30312e;
+    background-color:#faf3e9
 }
 
 .section-title {
@@ -124,10 +125,6 @@ html {
 
 .header {
     background-color:  #6a7a5f;
-}
-
-.main {
-    background-color:#faf3e9
 }
 
 .footer {
