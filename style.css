@@ -77,21 +77,29 @@ body {
 }
 
 .footer-link {
+    padding: 0 10px;
     text-decoration: none;
     transition: 0.3s;
 }
 
 .footer-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;  
+}
+
+.footer-text {
     color: #ffffff;
 }
 
-.footer-item a {
-  color: #ffffff;
-  text-decoration: none;
-  transition: color 0.5s;
+.footer-text a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.5s;
 }
 
-.footer-item a:hover {
+.footer-text a:hover {
   color: #3d4647;
 }
 
