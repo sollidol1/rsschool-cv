@@ -1,0 +1,140 @@
+@font-face {
+    font-family: sans-serif;
+    src: url(assets/font/Noto_Sans/NotoSans-VariableFont_wdth\,wght.ttf);
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "NotoSans", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #30312e;
+    background-color:#faf3e9
+}
+
+.section-title {
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #344636;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.nav-item a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+.nav-item a:hover {
+  color: #3d4647;
+}
+
+.main-link {
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.main-item a {
+  color: #30312e;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.main-item a:hover {
+  color: #b1a146;
+}
+
+.footer-link {
+    padding: 0 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.footer-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;  
+}
+
+.footer-text {
+    color: #ffffff;
+}
+
+.footer-text a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.footer-text a:hover {
+  color: #3d4647;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
+
+.round-image {
+  border-radius: 50%;
+  width: 20%;
+  height: 20%;
+}
+
+.header {
+    background-color:  #6a7a5f;
+}
+
+.footer {
+    background-color: #6a7a5f;
+}
+
+.profile-border {
+    border-bottom: 5px solid #3d4647
+}
+
+.section-border {
+    border-bottom: 1px solid #3d4647
+}
