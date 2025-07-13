@@ -61,9 +61,22 @@ body {
   color: #3d4647;
 }
 
+.main-link {
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.main-item a {
+  color: #30312e;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.main-item a:hover {
+  color: #b1a146;
+}
+
 .footer-link {
-    padding: 0 20px;
-    line-height: 50px;
     text-decoration: none;
     transition: 0.3s;
 }
