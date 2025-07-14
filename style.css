@@ -87,7 +87,12 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    list-style: none;  
+    list-style: none;
+}
+
+.footer-item img {
+     width: 10%;
+    height: 10%;
 }
 
 .footer-text {
