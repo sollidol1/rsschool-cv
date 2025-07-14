@@ -90,7 +90,7 @@ body {
     list-style: none;
 }
 
-.footer-item img {
+.footer-item a {
      width: 10%;
     height: 10%;
 }
